@@ -27,6 +27,5 @@ hist(plot_data$Global_active_power,col="red",xlab="Global active power(kilowatts
 #device off
 dev.off()
 
-str(plot_data)
 
-setwd('E:\\Dropbox\\coursera\\Exploratory Data Analysis')
+
